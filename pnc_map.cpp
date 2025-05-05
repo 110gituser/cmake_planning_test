@@ -6,4 +6,6 @@ void PNC_Map::mapInfo(){
     cout<<"this is pnc_map\n";
     cout<<"this is pnc_map\n";
     cout<<"this is pnc_map\n";
+    cout<<"this is pnc_map\n";
+    cout<<"this is pnc_map\n";
 }
