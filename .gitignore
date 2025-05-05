@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# build /bin&/build不推送到github
+/bin
+/build
